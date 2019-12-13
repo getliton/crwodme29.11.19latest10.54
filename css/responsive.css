@@ -1,0 +1,101 @@
+/*Small Device*/
+@media (min-width:0px) and (max-width:500px){
+    .slider-content h1 {
+        padding-top: 130px;
+        padding-bottom: 25px;
+        font-size: 25px;
+    }
+    .slider-content p {
+        font-size: 20px;
+        padding-bottom: 29px;
+    }
+    .btn {
+      
+        font-size: 14px;
+        padding: 13px 14px;
+    }
+    .ourwork-title-img {
+        padding-top: 57px;
+    }
+    .ourwork-title-content h1 {
+        font-size: 24px;
+        padding-bottom: 24px;
+      
+        line-height: 30px;
+    }
+    .content-one p {
+        font-size: 14px;
+        
+    }
+    .content-two p {
+    
+        font-size: 14px;
+    }
+    .ourwork-content {
+        padding-bottom: 40px;
+      
+    }
+    .site-btn {
+     
+        top: 214px;
+       
+    }
+    .discover-btn-two .btn {
+       right: 121px;
+    }
+
+
+
+
+
+}
+@media (min-width:500.01px) and (max-width:768px){
+    .slider-content h1 {
+        padding-top: 150px;
+        padding-bottom: 25px;
+        font-size: 25px;
+    }
+    .slider-content p {
+        font-size: 20px;
+        padding-bottom: 29px;
+    }
+    .btn {
+      
+        font-size: 14px;
+        padding: 13px 14px;
+    }
+    .ourwork-title-img {
+        padding-top: 57px;
+    }
+    .ourwork-title-content h1 {
+        font-size: 24px;
+        padding-bottom: 24px;
+      
+        line-height: 30px;
+    }
+    .content-one p {
+        font-size: 14px;
+        
+    }
+    .content-two p {
+    
+        font-size: 14px;
+    }
+    .ourwork-content {
+        padding-bottom: 40px;
+      
+    }
+    .site-btn {
+     
+        top: 185px;
+       
+    }
+    .discover-btn-two .btn {
+       right: 139px;
+    }
+
+
+
+
+
+}
